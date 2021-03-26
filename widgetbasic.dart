@@ -45,6 +45,3 @@ class _WidgetBasicState extends State<WidgetBasic> {
         );
     }
 }
-
-
-//credit by nthswny
